@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: April 10, 2026**
+**Last Updated: May 17, 2026**
 
 This Privacy Policy describes how Caro ("we," "us," or "our") collects, uses, and protects your personal information when you use the Caro mobile application ("App"). Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -35,6 +35,7 @@ When you use the App's AI-powered features, additional data is generated and sto
 - Automatically detected clothing attributes (such as category, colors, pattern, and style) derived from your uploaded photos
 - AI-generated outfit suggestions and styling notes
 - Calculated metrics such as outfit ranking scores and cost-per-wear values
+- User-set style preferences (such as aesthetic sensibility, fit preferences, color preferences, occasion frequency, modesty preferences, comfort priorities, and personal stylist notes) stored in your profile and used to personalize AI-generated responses
 
 ### Information We Do Not Collect
 
@@ -45,7 +46,7 @@ We do not collect the following: phone numbers, mailing or billing addresses, pa
 We use the information we collect for the following purposes:
 
 - **To provide and maintain the App's services**, including storing your wardrobe data, generating outfit suggestions, calculating rankings, and displaying your content within the App.
-- **To provide AI-powered features**, including sending your uploaded clothing photos and relevant wardrobe data to our third-party AI service provider (Anthropic) for image analysis, clothing attribute detection, and outfit recommendation generation.
+- **To provide AI-powered features**, including sending your uploaded clothing photos, relevant wardrobe data, and style preference data (when set) to our third-party AI service provider (Anthropic) for image analysis, clothing attribute detection, and personalized outfit recommendation generation.
 - **To evaluate and improve the App**, including understanding how features are used and identifying usage trends.
 - **To protect the App**, including enforcing rate limits on AI features and verifying user authentication.
 - **To respond to user inquiries** and provide support when you contact us.
