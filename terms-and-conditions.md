@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last Updated: April 10, 2026**
+**Last Updated: August 15, 2026**
 
 Please read these Terms and Conditions ("Terms") carefully before using the Caro mobile application ("App") operated by Caro ("we," "us," or "our").
 
@@ -32,7 +32,7 @@ The App includes AI-powered features, including auto-tagging and an AI stylist (
 - AI-generated outfit recommendations, styling advice, and clothing analysis are provided for informational and entertainment purposes only.
 - AI-generated content is not guaranteed to be accurate, complete, or suitable for any particular occasion or purpose.
 - We are not responsible for any decisions made based on AI-generated content within the App.
-- You may choose not to use AI-powered features, in which case your photos and data will not be sent to third-party AI services for processing.
+- You may turn off AI-powered features at any time in Settings → AI Features, in which case your photos and data will not be sent to third-party AI services for processing.
 
 ## 6. Prohibited Activities
 
