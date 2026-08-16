@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: May 17, 2026**
+**Last Updated: August 15, 2026**
 
 This Privacy Policy describes how Caro ("we," "us," or "our") collects, uses, and protects your personal information when you use the Caro mobile application ("App"). Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -93,6 +93,8 @@ AI-generated content is provided for informational and entertainment purposes on
 
 **Opting out:** You may choose not to use AI-powered features at any time. If you do not use these features, your photos and wardrobe data will not be sent to Anthropic for processing. To opt out or request removal of AI-processed data, contact us using the information provided in Section 12.
 
+You can turn AI features on or off at any time in the App under Settings → AI Features. When turned off, your photos and wardrobe data will not be sent to Anthropic, and AI-powered features (auto-tagging, CaroAI Stylist, and AI outfit generation) will be unavailable until you turn them back on. AI features are on by default when you create your account.
+
 ## 7. Data Retention
 
 We retain your personal information for as long as your account is active or as needed to provide the App's services. If you delete your account, we will delete all associated data, including your profile information, wardrobe photos, clothing items, outfits, rankings, and any AI-generated data.
@@ -104,7 +106,7 @@ Depending on your location, you may have certain rights regarding your personal 
 - **Right to access:** You may request information about the personal data we hold about you.
 - **Right to correction:** You may request that we correct inaccurate personal information.
 - **Right to deletion:** You may request that we delete your personal information and account.
-- **Right to opt out of AI processing:** You may choose not to use AI-powered features, as described in Section 6.
+- **Right to opt out of AI processing:** You may turn off AI-powered features at any time in Settings → AI Features, as described in Section 6.
 
 To exercise any of these rights, please contact us using the information provided in Section 12. We will respond to your request in accordance with applicable law.
 
