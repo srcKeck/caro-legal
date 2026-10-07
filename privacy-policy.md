@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: August 15, 2026**
+**Last Updated: October 7, 2026**
 
 This Privacy Policy describes how Caro ("we," "us," or "our") collects, uses, and protects your personal information when you use the Caro mobile application ("App"). Please read this policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -20,13 +20,14 @@ When you create an account or use the App, we may collect the following informat
 - Zip code
 - Clothing photos and wardrobe data, including item descriptions, categories, colors, brands, sizes, materials, costs, and shopping URLs
 - Outfit data, including occasion tags, season preferences, and styling notes
+- Weekly schedule data, including a dress code for each day of the week and optional notes you add
 
 ### Information Collected Automatically
 
 When you use the App, we automatically collect certain information through Firebase and related services, including:
 
-- **Log and usage data:** Information about how you interact with the App, including features used, actions taken, and session duration.
-- **Device data:** Device type, operating system version, app version, and unique device identifiers.
+- **Usage and analytics data:** We use Firebase Analytics, a Google service, to understand how the App is used, such as which features are used (adding items, creating outfits, ranking sessions, CaroAI features, and the weekly planner), whether AI requests succeed or fail, session timing, and how often people return. This data is associated with a randomly generated app instance identifier, not your name or email. Analytics events do not include item names, outfit names, your messages to CaroAI, or other content you write.
+- **Device data:** Device type, operating system version, app version, and the app instance identifier described above. We do not collect or use your device's advertising identifier.
 
 ### AI-Generated Data
 
@@ -34,8 +35,9 @@ When you use the App's AI-powered features, additional data is generated and sto
 
 - Automatically detected clothing attributes (such as category, colors, pattern, and style) derived from your uploaded photos
 - AI-generated outfit suggestions and styling notes
+- Weekly outfit plans, including the outfit suggested for each day and the reasoning CaroAI provides
 - Calculated metrics such as outfit ranking scores and cost-per-wear values
-- User-set style preferences (such as aesthetic sensibility, fit preferences, color preferences, occasion frequency, modesty preferences, comfort priorities, and personal stylist notes) stored in your profile and used to personalize AI-generated responses
+- User-set style preferences (such as aesthetic sensibility, fit preferences, color preferences, occasion frequency, modesty preferences, comfort priorities, personal stylist notes, your weekly dress-code schedule, and your cost-per-wear preference) stored in your profile and used to personalize AI-generated responses
 
 ### Information We Do Not Collect
 
@@ -46,8 +48,8 @@ We do not collect the following: phone numbers, mailing or billing addresses, pa
 We use the information we collect for the following purposes:
 
 - **To provide and maintain the App's services**, including storing your wardrobe data, generating outfit suggestions, calculating rankings, and displaying your content within the App.
-- **To provide AI-powered features**, including sending your uploaded clothing photos, relevant wardrobe data, and style preference data (when set) to our third-party AI service provider (Anthropic) for image analysis, clothing attribute detection, and personalized outfit recommendation generation.
-- **To evaluate and improve the App**, including understanding how features are used and identifying usage trends.
+- **To provide AI-powered features**, including sending your uploaded clothing photos, relevant wardrobe data, and style preference and weekly schedule data (when set) to our third-party AI service provider (Anthropic) for image analysis, clothing attribute detection, and personalized outfit recommendation generation.
+- **To evaluate and improve the App**, including using Firebase Analytics to understand which features are used and how often people return.
 - **To protect the App**, including enforcing rate limits on AI features and verifying user authentication.
 - **To respond to user inquiries** and provide support when you contact us.
 
@@ -55,7 +57,7 @@ We use the information we collect for the following purposes:
 
 The App uses the following third-party services that may collect or process your data:
 
-- **Firebase (Google):** We use Firebase for user authentication, cloud data storage (Cloud Firestore), file storage (Firebase Storage), and cloud computing (Cloud Functions). Google's privacy policy governs their handling of data processed through Firebase services.
+- **Firebase (Google):** We use Firebase for user authentication, cloud data storage (Cloud Firestore), file storage (Firebase Storage), cloud computing (Cloud Functions), and analytics (Firebase Analytics). Google processes this data and its privacy policy governs its handling. We do not use analytics data for advertising and do not share it with advertisers.
 - **Anthropic:** When you use AI-powered features such as auto-tagging or the AI Stylist (CaroAI), your clothing photos and relevant wardrobe data are sent to Anthropic's servers for processing. Anthropic's privacy policy governs their handling of this data. You may choose not to use AI-powered features, in which case your data will not be sent to Anthropic.
 - **Google Cloud Secret Manager:** Used to securely store API credentials. No user data is stored in this service.
 
@@ -88,6 +90,7 @@ The App includes AI-powered features provided through Anthropic's artificial int
 
 - **Auto-tagging:** Analyzes photos of clothing items to automatically detect attributes such as category, colors, pattern, and style.
 - **AI Stylist (CaroAI):** Generates personalized outfit suggestions and styling advice based on your wardrobe.
+- **Weekly Planner:** Suggests an outfit for each day of the week using your wardrobe, saved outfits, style preferences, and weekly schedule.
 
 AI-generated content is provided for informational and entertainment purposes only and is not guaranteed to be accurate or suitable for any particular purpose.
 
@@ -98,6 +101,8 @@ You can turn AI features on or off at any time in the App under Settings → AI 
 ## 7. Data Retention
 
 We retain your personal information for as long as your account is active or as needed to provide the App's services. If you delete your account, we will delete all associated data, including your profile information, wardrobe photos, clothing items, outfits, rankings, and any AI-generated data.
+
+Analytics data is stored by Google and retained for up to 14 months. Because it is tied to a random app instance identifier and not to your name or email, it is not removed when you delete your account, but it is not used to identify you.
 
 ## 8. Your Privacy Rights
 
@@ -120,7 +125,7 @@ The App is not intended for children under the age of 13. We do not knowingly co
 
 If you are a California resident, you may have additional rights under the California Consumer Privacy Act (CCPA) and California's "Shine the Light" law, including the right to know what personal information we collect, the right to request deletion, and the right to opt out of the sale of personal information. We do not sell personal information.
 
-In the last 12 months, we have collected the following categories of personal information as defined by California law: identifiers (name, email, username), personal information under the California Customer Records statute (name), characteristics of protected classifications (gender, birth year), commercial information (clothing purchase costs and shopping URLs), sensory data (photos), and inferences drawn from the above (AI-generated clothing attributes, style preferences, and ranking scores).
+In the last 12 months, we have collected the following categories of personal information as defined by California law: identifiers (name, email, username, and a device-level app instance identifier), personal information under the California Customer Records statute (name), characteristics of protected classifications (gender, birth year), commercial information (clothing purchase costs and shopping URLs), internet or other electronic network activity information (app usage and interaction data), sensory data (photos), and inferences drawn from the above (AI-generated clothing attributes, style preferences, and ranking scores).
 
 ### Other US States
 
